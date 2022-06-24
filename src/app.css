@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input:focus,
+.select:focus {
+	@apply outline-offset-0;
+	@apply outline-1;
+}
+
+.input-md {
+	@apply h-9;
+}
