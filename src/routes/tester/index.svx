@@ -6,8 +6,17 @@ list: [1, 2, 3, 4, "boo"]
 
 ---
 
+<script>
+</script>
+
+# Good stuff in your markdown
+
 ## Good stuff in your markdown
 
 Markdown is pretty good but sometimes you just need more.
 
 Sometimes you need a boinger like this:
+
+```js
+export const something = 'something'
+```
