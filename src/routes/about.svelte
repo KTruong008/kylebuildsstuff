@@ -13,12 +13,9 @@
       !isExpanded && 'lg:line-clamp-4'
     }}`}
   >
-    In this show, Eric and Wes dig deep to get to the facts with guests who have been
-    labeled villains by a society quick to judge, without actually getting the full
-    story. Tune in every Thursday to get to the truth with another misunderstood outcast
-    as they share the missing context in their tragic tale.
+    A collection of thoughts about building stuff.
   </p>
-  {#if !isExpanded}
+  <!-- {#if !isExpanded}
     <button
       type="button"
       class="mt-2 hidden text-sm font-bold leading-6 text-pink-500 hover:text-pink-700 active:text-pink-900 lg:inline-block"
@@ -28,5 +25,5 @@
     >
       Show more
     </button>
-  {/if}
+  {/if} -->
 </section>

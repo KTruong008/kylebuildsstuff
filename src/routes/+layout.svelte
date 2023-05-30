@@ -1,6 +1,6 @@
 <script>
   import '../app.css';
-  import About from './about.svelte';
+  // import About from './about.svelte';
 
   // export let socials = [
   //   ['Spotify', SpotifyIcon],
@@ -11,9 +11,7 @@
 </script>
 
 <svelte:head>
-  <title>
-    Their Side - Conversations with the most tragically misunderstood people of our time
-  </title>
+  <title>Kyle - Builder of stuff</title>
   <meta
     name="description"
     content="Conversations with the most tragically misunderstood people of our time."
@@ -28,14 +26,12 @@
   >
     <div class="mt-10 text-center lg:mt-12 lg:text-left">
       <p class="text-xl font-bold text-slate-900">
-        <a href="/">Their Side</a>
+        <a href="/">Kyle</a>
       </p>
-      <p class="mt-3 text-lg font-medium leading-8 text-slate-700">
-        Conversations with the most tragically misunderstood people of our time.
-      </p>
+      <p class="mt-3 text-lg font-medium leading-8 text-slate-700">Builder of stuff</p>
     </div>
-    <About extraClasses="mt-12 hidden lg:block" />
-    <section class="mt-10 lg:mt-12">
+    <!-- <About extraClasses="mt-12 hidden lg:block" /> -->
+    <!-- <section class="mt-10 lg:mt-12">
       <h2
         class="sr-only flex items-center font-mono text-sm font-medium leading-7 text-slate-900 lg:not-sr-only"
       >
@@ -48,7 +44,7 @@
         role="list"
         class="mt-4 flex justify-center gap-10 text-base font-medium leading-7 text-slate-700 sm:gap-8 lg:flex-col lg:gap-4"
       >
-        <!-- {[
+        {[
                 ['Spotify', SpotifyIcon],
                 ['Apple Podcast', ApplePodcastIcon],
                 ['Overcast', OvercastIcon],
@@ -64,17 +60,17 @@
                     <span class="hidden sm:ml-3 sm:block">{label}</span>
                   </a>
                 </li>
-              ))} -->
-        <!-- {#each socials as social}
+              ))}
+        {#each socials as social}
           <li class="flex">
             <a href="/" class="group flex items-center" aria-label={social[0]}>
               <social[1] class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" />
               <span class="hidden sm:ml-3 sm:block">{social[0]}</span>
             </a>
           </li>
-        {/each} -->
+        {/each}
       </ul>
-    </section>
+    </section> -->
   </div>
 </header>
 <main
