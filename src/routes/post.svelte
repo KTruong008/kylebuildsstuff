@@ -4,7 +4,7 @@
 
   export let title = '';
   export let description = '';
-  export let published = '';
+  export let date = '';
 </script>
 
 <article class="py-16">
@@ -15,15 +15,15 @@
           <h1 class="mt-2 text-4xl font-bold text-slate-900">
             {title}
           </h1>
-          <!-- <FormattedDate
-            date={new Date(published)}
+          <FormattedDate
+            {date}
             extraClasses="order-first font-mono text-sm leading-7 text-slate-500"
-          /> -->
+          />
         </div>
       </div>
-      <p class="mt-3 text-lg font-medium leading-8 text-slate-700">
+      <!-- <p class="mt-3 text-lg font-medium leading-8 text-slate-700">
         {description}
-      </p>
+      </p> -->
     </header>
     <hr class="my-12 border-gray-200" />
     <div

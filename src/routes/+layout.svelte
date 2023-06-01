@@ -6,8 +6,6 @@
   import '../app.css';
   // import About from './about.svelte';
 
-  // export let socials = [['Spotify'], ['Apple Podcast'], ['Overcast'], ['RSS Feed']];
-
   let projects = [
     ['beepbooply', 'https://beepbooply.com'],
     ['AI Chat Bestie', 'https://github.com/KTruong008/aichatbestie'],
@@ -31,7 +29,11 @@
       <p class="text-xl font-bold text-slate-900">
         <a href="/">Kyle</a>
       </p>
-      <p class="mt-3 text-lg font-medium leading-8 text-slate-700">Builder of stuff</p>
+      <a href="/">
+        <p class="mt-3 text-lg font-medium leading-8 text-slate-700">
+          Builder of stuff
+        </p>
+      </a>
       <div class="mt-1 flex justify-center lg:justify-start">
         <a
           href={GITHUB_URL}
@@ -73,20 +75,10 @@
                 class="group flex items-center hover:text-blue-500 hover:underline"
                 aria-label={label}
               >
-                <!-- <Icon class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" /> -->
                 <span class="hidden sm:block">{label}</span>
               </a>
             </li>
           {/each}
-
-          <!-- {#each socials as social}
-          <li class="flex">
-            <a href="/" class="group flex items-center">
-              <social[1] class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" />
-              <span class="hidden sm:block">{social[0]}</span>
-            </a>
-          </li>
-        {/each} -->
         </ul>
       </section>
     </div>

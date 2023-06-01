@@ -2,7 +2,7 @@
 title: 'Comparing 5 cheapest text to speech AI voice generators (2023)'
 description: 'Comparing 5 cheapest text to speech AI voice generators on multiple factors, including price, features, and ease of use.'
 author: 'Kyle'
-publishedAtIso: '2023-01-16'
+date: '2023-01-16'
 ---
 
 <script>
