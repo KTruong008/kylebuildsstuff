@@ -1,6 +1,6 @@
 <script lang="ts">
   import Container from '$lib/shared/components/container.svelte';
-  import { posts } from '$lib/shared/shared.constant';
+  import { POSTS_LIST } from '$lib/shared/shared.constant';
   import PostCard from './post-card.svelte';
 </script>
 
@@ -11,7 +11,7 @@
   <div
     class="divide-y divide-slate-100 sm:mt-4 lg:mt-8 lg:border-t lg:border-slate-100"
   >
-    {#each posts as post}
+    {#each POSTS_LIST as post}
       <PostCard {post} />
     {/each}
   </div>

@@ -2,7 +2,7 @@
   import '../app.css';
   // import About from './about.svelte';
 
-  export let socials = [['Spotify'], ['Apple Podcast'], ['Overcast'], ['RSS Feed']];
+  // export let socials = [['Spotify'], ['Apple Podcast'], ['Overcast'], ['RSS Feed']];
 
   let projects = [
     ['beepbooply', 'https://beepbooply.com'],

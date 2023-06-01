@@ -1,14 +1,40 @@
-export const posts = [
+/**
+ * This is the MASTER list of all blog posts.
+ *
+ * There may be duplicates everywhere, but this is the most organized
+ * and parseable source of truth for blog posts.
+ */
+export const POSTS_LIST = [
   {
-    id: 1,
-    title: `${1}: ${'ABC'}`,
-    published: '2020-01-01',
-    description: 'Learn the ABCs'
+    title: 'An apple a day keeps the doctor away',
+    url: '/an-apple-a-day-keeps-the-doctor-away',
+    description: 'Apples are good for you',
+    author: 'Kyle',
+    date: '2023-02-05',
+    isFeatured: true
   },
   {
-    id: 2,
-    title: `${2}: ${'DEF'}`,
-    published: '2020-01-02',
-    description: 'Learn the DEFs'
+    title: 'A pear a day keeps the doctor away',
+    url: '/a-pear-a-day-keeps-the-doctor-away',
+    description: 'Pears are good for you',
+    author: 'Kyle',
+    date: '2023-02-05',
+    isFeatured: true
+  },
+  {
+    title: 'Comparing 5 cheapest text to speech AI voice generators (2023)',
+    url: '/comparing-5-best-cheapest-text-to-speech-ai-voice-generators-2023',
+    description: 'beep boop',
+    author: 'Kyle',
+    date: '2023-02-05',
+    isFeatured: true
+  },
+  {
+    title: 'An orange a day keeps the doctor away',
+    url: '/an-orange-a-day-keeps-the-doctor-away',
+    description: 'Oranges are good for you',
+    author: 'Kyle',
+    date: '2023-02-05',
+    isFeatured: false
   }
 ];
