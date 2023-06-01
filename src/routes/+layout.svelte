@@ -2,12 +2,14 @@
   import '../app.css';
   // import About from './about.svelte';
 
-  // export let socials = [
-  //   ['Spotify', SpotifyIcon],
-  //   ['Apple Podcast', ApplePodcastIcon],
-  //   ['Overcast', OvercastIcon],
-  //   ['RSS Feed', RSSIcon]
-  // ];
+  export let socials = [['Spotify'], ['Apple Podcast'], ['Overcast'], ['RSS Feed']];
+
+  let projects = [
+    ['beepbooply', 'https://beepbooply.com'],
+    ['AI Chat Bestie', 'https://github.com/KTruong008/aichatbestie'],
+    ['Checkout Buddy', 'https://apps.shopify.com/checkout-buddy'],
+    ['Pickup & Delivery Buddy', 'https://apps.shopify.com/pickup-and-delivery-buddy']
+  ];
 </script>
 
 <svelte:head>
@@ -31,46 +33,42 @@
       <p class="mt-3 text-lg font-medium leading-8 text-slate-700">Builder of stuff</p>
     </div>
     <!-- <About extraClasses="mt-12 hidden lg:block" /> -->
-    <!-- <section class="mt-10 lg:mt-12">
+    <section class="mt-10 lg:mt-12">
       <h2
         class="sr-only flex items-center font-mono text-sm font-medium leading-7 text-slate-900 lg:not-sr-only"
       >
-        <span class="ml-2.5">Listen</span>
+        <span>Stuff</span>
       </h2>
       <div
         class="h-px bg-gradient-to-r from-slate-200/0 via-slate-200 to-slate-200/0 lg:hidden"
       />
       <ul
-        role="list"
         class="mt-4 flex justify-center gap-10 text-base font-medium leading-7 text-slate-700 sm:gap-8 lg:flex-col lg:gap-4"
       >
-        {[
-                ['Spotify', SpotifyIcon],
-                ['Apple Podcast', ApplePodcastIcon],
-                ['Overcast', OvercastIcon],
-                ['RSS Feed', RSSIcon],
-              ].map(([label, Icon]) => (
-                <li key={label} class="flex">
-                  <a
-                    href="/"
-                    class="group flex items-center"
-                    aria-label={label}
-                  >
-                    <Icon class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" />
-                    <span class="hidden sm:ml-3 sm:block">{label}</span>
-                  </a>
-                </li>
-              ))}
-        {#each socials as social}
+        {#each projects as [label, url]}
           <li class="flex">
-            <a href="/" class="group flex items-center" aria-label={social[0]}>
-              <social[1] class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" />
-              <span class="hidden sm:ml-3 sm:block">{social[0]}</span>
+            <a
+              href={url}
+              target="_blank"
+              class="group flex items-center hover:text-blue-500 hover:underline"
+              aria-label={label}
+            >
+              <!-- <Icon class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" /> -->
+              <span class="hidden sm:block">{label}</span>
             </a>
           </li>
         {/each}
+
+        <!-- {#each socials as social}
+          <li class="flex">
+            <a href="/" class="group flex items-center">
+              <social[1] class="h-8 w-8 fill-slate-400 group-hover:fill-slate-600" />
+              <span class="hidden sm:block">{social[0]}</span>
+            </a>
+          </li>
+        {/each} -->
       </ul>
-    </section> -->
+    </section>
   </div>
 </header>
 <main
