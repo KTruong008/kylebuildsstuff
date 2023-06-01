@@ -3,7 +3,6 @@
   import FormattedDate from '$lib/shared/components/formatted-date.svelte';
 
   export let title = '';
-  export let description = '';
   export let date = '';
 </script>
 
