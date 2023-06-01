@@ -1,6 +1,6 @@
-<script>
+<script lang="ts">
   import Container from '$lib/shared/components/container.svelte';
-  import Post from './post.svelte';
+  import PostCard from './post-card.svelte';
 
   let episodes = [
     {
@@ -26,7 +26,7 @@
     class="divide-y divide-slate-100 sm:mt-4 lg:mt-8 lg:border-t lg:border-slate-100"
   >
     {#each episodes as episode}
-      <Post {episode} />
+      <PostCard {episode} />
     {/each}
   </div>
 </div>
