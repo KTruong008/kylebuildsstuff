@@ -7,7 +7,7 @@
   export let published = '';
 </script>
 
-<article class="py-16 lg:py-36">
+<article class="py-16">
   <Container>
     <header class="flex flex-col">
       <div class="flex items-center gap-6">
@@ -21,7 +21,7 @@
           /> -->
         </div>
       </div>
-      <p class="ml-24 mt-3 text-lg font-medium leading-8 text-slate-700">
+      <p class="mt-3 text-lg font-medium leading-8 text-slate-700">
         {description}
       </p>
     </header>

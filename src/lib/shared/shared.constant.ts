@@ -1,3 +1,6 @@
+export const GITHUB_URL = 'https://github.com/ktruong008';
+export const TWITTER_URL = 'https://twitter.com/kylebuildsstuff';
+
 /**
  * This is the MASTER list of all blog posts.
  *
