@@ -21,7 +21,7 @@
 </svelte:head>
 
 <header
-  class="bg-slate-50 lg:fixed lg:inset-y-0 lg:left-0 lg:flex lg:w-112 lg:items-start lg:overflow-y-auto xl:w-120"
+  class="bg-slate-50 lg:fixed lg:inset-y-0 lg:left-0 lg:flex lg:w-80 lg:items-start lg:overflow-y-auto"
 >
   <div
     class="relative z-10 mx-auto px-4 pb-4 pt-10 sm:px-6 md:max-w-2xl md:px-4 lg:min-h-full lg:flex-auto lg:border-x lg:border-slate-200 lg:px-8 lg:py-12 xl:px-12"
@@ -33,6 +33,8 @@
       <p class="mt-3 text-lg font-medium leading-8 text-slate-700">Builder of stuff</p>
     </div>
     <!-- <About extraClasses="mt-12 hidden lg:block" /> -->
+
+    <!-- Projects -->
     <section class="mt-10 lg:mt-12">
       <h2
         class="sr-only flex items-center font-mono text-sm font-medium leading-7 text-slate-900 lg:not-sr-only"
@@ -71,9 +73,9 @@
     </section>
   </div>
 </header>
-<main
-  class="border-t border-slate-200 lg:relative lg:mb-28 lg:ml-112 lg:border-t-0 xl:ml-120"
->
+
+<!-- Right-side Content -->
+<main class="border-t border-slate-200 lg:relative lg:mb-28 lg:ml-80 lg:border-t-0">
   <div class="relative">
     <slot />
   </div>
