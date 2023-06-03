@@ -9,6 +9,12 @@ export const TWITTER_URL = 'https://twitter.com/kylebuildsstuff';
  */
 export const POSTS_LIST = [
   {
+    title: 'Ramen Profitability in 3.5 Years',
+    url: '/ramen-profitability-in-3-5-years',
+    author: 'Kyle',
+    date: '2023-06-02'
+  },
+  {
     title: 'Why Build on the Blockchain?',
     url: '/why-build-on-the-blockchain',
     author: 'Kyle',
