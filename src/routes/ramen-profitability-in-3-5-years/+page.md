@@ -32,4 +32,4 @@ But of course I want it. Time is more precious than gold, I just don’t know wh
 
 The more I think about it the more I think it was just me lacking the courage and conviction to pick a damn thing and do it. Instead, I’ve occupied myself with “busy” work. Endlessly learning new frameworks and libraries and optimizing my flow. Such work can be useful but I didn’t learn to code to endlessly optimize, I learned to code to build some cool shit, and to help me make something of this life.
 
-So long story short, I’m now learning how to build on the blockchain. The possibilities it enables are far beyond what I can imagine, and I find inspiration in this unknown.
+So long story short, I’m now learning how to build on the blockchain, again. The possibilities it enables are far beyond what I can imagine, and I find inspiration in this unknown.
