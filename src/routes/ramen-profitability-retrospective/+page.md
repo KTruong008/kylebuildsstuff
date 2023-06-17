@@ -88,9 +88,9 @@ I think it’s also worth mentioning that it’s extremely hard to compete and w
 
 ## What solopreneurship is about
 
-Solopreneurship, or whatever other name it goes by, to me, is about the delicate balance between striving for freedom and striving for survivability. Freedom from that which binds us, and survivability in terms of being able to pay the bills required for living in society.
+Solopreneurship, or whatever other name it goes by, to me, is about the delicate balance between striving for freedom and striving for survivability. Freedom from that which binds you, and survivability in terms of being able to pay the bills required for living in society.
 
-Sometimes these things feel contradictory. How am I supposed to be free when I have to worry about the bills? I have to build something people find valuable enough to pay for but what if it’s not valuable to me? I’ll build what I find valuable, but what if no one else pays for it? It’s like every step I take for freedom is a step backwards for survivability, and every step for survivability is a step back for freedom.
+Sometimes these things feel contradictory. How am I supposed to be free when I have to worry about the bills? I have to build something people find valuable enough to pay for but what if it’s not valuable to me? I’ll build what I find valuable, but what if no one pays for it? It’s like every step I take for freedom is a step backwards for survivability, and every step for survivability is a step back for freedom.
 
 I think it’s all just a mental trap. No thing or person ever held me back from doing what I wanted to do. I didn’t have to learn so many skills and I didn’t have to build Shopify apps, and I didn’t have to quit my job either. But I’m glad I did all those things, because it put space between me and my perceived obstacles, allowing me to see things more clearly.
 
@@ -104,7 +104,7 @@ Lately my mindset has shifted from “can I do this?” to “should I do this?�
 
 Ramen profitability is still far away from ideal, and the fact that most my income is dependent upon a single platform is concerning as well. But it is what it is.
 
-Maintaining my existing products takes relatively little effort at this point. I may spend a day or two every week in support and bug fixes, and I’ll probably spend a few weeks in development when enough feature requests have piled up, but my primary focus at the moment is learning how to build on the blockchain, Sui specifically.
+Maintaining my existing products takes relatively little effort at this point. I may spend a day or two every week in support, and I’ll probably spend a few weeks in development when enough feature requests have piled up, but my primary focus at the moment is learning how to build on the blockchain, Sui specifically.
 
 It’s the most exciting technology I know of. The idea of a globally distributed, decentralized, and permissionless database that enables ownership of digital assets on a scale never seen before is something I would love to sink my teeth into.
 
