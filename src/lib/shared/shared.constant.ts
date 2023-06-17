@@ -9,6 +9,12 @@ export const TWITTER_URL = 'https://twitter.com/kylebuildsstuff';
  */
 export const POSTS_LIST = [
   {
+    title: 'Ramen Profitability Retrospective',
+    url: '/ramen-profitability-retrospective',
+    author: 'Kyle',
+    date: '2023-06-17'
+  },
+  {
     title: 'Why choose Svelte over React',
     url: '/why-choose-svelte-over-react',
     author: 'Kyle',
