@@ -110,4 +110,4 @@ It’s the most exciting technology I know of. The idea of a globally distribute
 
 Problem is that it’s super early right now, with lots of infrastructure that needs to be built. I think we may still be a few years out before we start seeing some mainstream adoption. Still, nothing software-related excites me more than blockchain technology. AI is neat but looks fundamentally limited by large expensive models that only big tech has access to, so I think it’s a great time to start playing around with blockchain tech.
 
-But nothing’s set in stone. Every day is full of possibilities, and I intend to keep that way as much as I can.
+But nothing’s set in stone. Every day is full of possibilities, and I intend to keep it that way as much as I can.
