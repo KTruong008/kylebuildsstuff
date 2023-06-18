@@ -76,11 +76,11 @@ One of the best things about working alone is that the choice is always yours. I
 
 But sometimes you don’t realize this until you go through it yourself. And that’s ok too. Nothing ventured nothing gained, as they say. It’s better to try and fail and learn that it’s not for you than to live on wondering what could have been.
 
-My most challenging app was Subscription Buddy, a Shopify app for product subscriptions. It took me 4 months to build and it was the most complex app I built alone, by far. Not only was there the standard merchant-facing part along with the storefront-facing part, but it also involved building separate task queues for processing recurring payments, scheduling payments, retrying payments, handling failed payments, email notifications, updating orders, subscriptions, and all that good stuff. It was also my first time launching multiple interdependent services on my cluster, with the app server, redis, and another server for queues/workers. It was exciting because I could finally justify learning the basics of Kubernetes. I know there are far easier methods, but this was a personal win for me.
+My most challenging app was Subscription Buddy, a Shopify app for product subscriptions. It took me 4 months to build and it was the most complex app I built alone, by far. Not only was there the standard merchant-facing part along with the storefront-facing part, but it also involved building separate task queues for processing recurring payments, scheduling payments, retrying payments, handling failed payments, email notifications, updating orders, subscriptions, and all that good stuff. It was also my first time launching multiple interdependent services on a Kubernetes cluster, with the app server, redis, and another server for queues/workers. I know there are far easier methods, and there was absolutely no need to optimize this much for an app that wasn’t even launched yet, but this was a personal technical achievement and win for me.
 
 It was a completed and working product, but due to many miscommunications and some minor storefront/UI-related bugs found during the app submission process, it was rejected enough times that my ability to submit was suspended for a month.
 
-It was frustrating to say the least, having so many months of work just trashed. But after a week I realized this was a blessing. I had absolutely no desire to maintain such a beast of an app. Just spinning up the development environment required 7 terminal tabs, and fixing potential queue-related bugs would not have been fun.
+It was frustrating to say the least, having so many months of work just trashed. But after a week I realized this was a blessing, I had absolutely no desire to maintain such a beast of an app. Just spinning up the development environment required 7 terminal tabs, and fixing potential queue-related bugs would not have been fun.
 
 I’ve started and stopped so many projects at this point, but each one has provided me valuable first-hand experiences and lessons.
 
@@ -92,9 +92,7 @@ Solopreneurship, or whatever other name it goes by, to me, is about the delicate
 
 Sometimes these things feel contradictory. How am I supposed to be free when I have to worry about paying bills? I have to build something people find valuable enough to pay for but what if it’s not valuable to me? I’ll build what I find valuable, but what if no one pays for it? It’s like every step I take for freedom is a step backwards for survivability, and every step for survivability is a step back for freedom.
 
-I think it’s all just a mental trap. No thing or person ever held me back from doing what I wanted or needed to do. I didn’t have to learn so many skills and I didn’t have to build Shopify apps, and I didn’t have to quit my job either. But I’m glad I did all those things, because it put space between me and my perceived obstacles, allowing me to see them more clearly as they are.
-
-Why did I struggle so much for seemingly so little? It’s like every other day I find someone new on Twitter who succeeds in spectacular fashion with solopreneurship, making far more money in far less time. Why can’t I do as they do? Why did I take the path I took? I think it was because I couldn’t stand not knowing if I could do it or not. It’s not so much about the money or success as it is about filling an insecurity.
+I’m probably just overthinking. No thing or person ever held me back from doing what I wanted or needed to do. I didn’t have to learn so many skills and I didn’t have to build Shopify apps, and I didn’t have to quit my job either. But I’m glad I did all those things, because it put space between me and my perceived obstacles, allowing me to see them more clearly as they are. It’s also quite nice to have the whole day to myself, every day.
 
 ## Future plans
 
