@@ -72,7 +72,7 @@ But what really made this clear to me was my latest Shopify app, a checkout cust
 
 ## It’s ok to stop half way
 
-One of the best things about working alone is that the choice is always yours. If I don’t like what I’m working on then I can just stop. If I wanted to make money working on things I don’t like I should have just stayed employed. In hindsight, that may have been the better choice, but the possibility of creating an automated internet money maker was, and still is, too great too pass up on.
+One of the best things about working alone is that the choice is always yours. If I don’t like what I’m working on then I can just stop. If I wanted to make money working on things I don’t like I should have just stayed employed. In hindsight, that may have been the better choice, but the possibility of creating an automated internet money maker was, and still is, too great to pass up on.
 
 My most challenging app was Subscription Buddy, a Shopify app for product subscriptions. It took me 4 months to build and it was the most complex app I built alone, by far. Not only was there the standard merchant-facing part along with the storefront-facing part, but it also involved building separate task queues for processing recurring payments, scheduling payments, retrying payments, handling failed payments, email notifications, updating orders, subscriptions, and all that good stuff. It was also my first time launching multiple interdependent services on a Kubernetes cluster, with the app server, redis, and another server for queues/workers. I know there are far easier methods, and there was absolutely no need to optimize this much for an app that wasn’t even launched yet, but this was a personal technical achievement and win for me.
 
