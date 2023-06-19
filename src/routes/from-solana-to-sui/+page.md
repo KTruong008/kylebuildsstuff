@@ -36,14 +36,14 @@ I still have high hopes for Solana, and I know it’s also working on adding sup
 
 ## More about Sui
 
-\***\*Evan Cheng Talks Sui Blockchain @ Web Summit 2022\*\***
+#####Evan Cheng Talks Sui Blockchain @ Web Summit 2022
 
 https://youtu.be/lWg66640bYU
 
-\***\*Let’s get MOVING. Sam Blackshear Talks Move Programming Language | Sui Blockchain\*\***
+#####Let’s get MOVING. Sam Blackshear Talks Move Programming Language | Sui Blockchain
 
 https://youtu.be/b_2jZ4YEfWc
 
-**************************\*\*\*\***************************Move AMA: Building with Move**************************\*\*\*\***************************
+##### Move AMA: Building with Move
 
 https://youtu.be/40Yf9UqD8fQ
