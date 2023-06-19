@@ -9,8 +9,8 @@ export const TWITTER_URL = 'https://twitter.com/kylebuildsstuff';
  */
 export const POSTS_LIST = [
   {
-    title: 'Ramen Profitability Retrospective',
-    url: '/ramen-profitability-retrospective',
+    title: 'Ramen Profitability Reflections',
+    url: '/ramen-profitability-reflections',
     author: 'Kyle',
     date: '2023-06-17'
   },
