@@ -1,5 +1,5 @@
 ---
-title: 'Ramen Profitability Retrospective'
+title: 'Ramen Profitability Reflections'
 author: 'Kyle'
 date: '2023-06-17'
 ---
@@ -86,21 +86,11 @@ I’ve started and stopped so many projects at this point, but each one has prov
 
 I think it’s also worth mentioning that it’s extremely hard to compete and win when you’re building something half-heartedly. Putting in even 8 hours a day will be a struggle, but your top competitors will gladly put in 16 hour days because it’s play for them.
 
-## What solopreneurship is about
-
-Solopreneurship, or whatever other name it goes by, to me, is about the delicate balance between striving for freedom and striving for survivability. Freedom from that which binds you, and survivability in terms of paying the bills required for living in society.
-
-Sometimes these things feel contradictory. How am I supposed to be free when I have to worry about paying bills? I have to build something people find valuable enough to pay for but what if it’s not valuable to me? I’ll build what I find valuable, but what if no one pays for it? It’s like every step I take for freedom is a step backwards for survivability, and every step for survivability is a step back for freedom.
-
-I’m probably just overthinking. No thing or person ever held me back from doing what I wanted or needed to do. I didn’t have to learn so many skills and I didn’t have to build Shopify apps, and I didn’t have to quit my job either. But I’m glad I did all those things, because it put space between me and my perceived obstacles, allowing me to see them more clearly as they are. It’s also quite nice to have the whole day to myself, every day.
-
-## Future plans
-
-Lately, I think my mindset has been shifting from “can I do this?” to “should I do this?”. It seems to be the case that it’s usually more of a matter of time than it is a matter of capability when it comes to doing or attaining a particular thing. How much time will it take to accomplish a particular goal, or the cost of a task, is important when deciding whether to pursue or not.
+## Next steps
 
 Ramen profitability is still far away from ideal, and the fact that most my income is dependent upon a single platform is concerning as well. But it is what it is.
 
-Maintaining my existing products takes relatively little effort at this point. I do a bit of customer support and fix bugs here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which I suspect should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain, Sui specifically.
+Maintaining my existing products takes relatively little effort. I do a bit of customer support and fix bugs here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain, Sui specifically.
 
 Blockchains are the most exciting technology I know of. The idea of a globally distributed, decentralized, and permissionless database (ledger) that enables ownership of digital assets on a scale never seen before is something I would love to invest a chunk of my life into.
 
