@@ -1,7 +1,7 @@
 ---
 title: 'Why Build on the Blockchain?'
 author: 'Kyle'
-date: '2022-07-12'
+publishedAt: '2022-07-12'
 ---
 
 Recently, I’ve come to the realization that there’s nothing about my work that excites me anymore. I’ve seen my fair share of JS frameworks and I’ve built enough backend systems, and everything feels like I’m building some pretty form fields to hook up to some API and then saving it in a database. It’s just not fun anymore.

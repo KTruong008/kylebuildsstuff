@@ -1,7 +1,7 @@
 ---
 title: 'From Solana to Sui'
 author: 'Kyle'
-date: '2023-06-19'
+publishedAt: '2023-06-19'
 ---
 
 ## Solana, Ethereum, and Polygon

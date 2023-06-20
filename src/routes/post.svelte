@@ -3,7 +3,7 @@
   import FormattedDate from '$lib/shared/components/formatted-date.svelte';
 
   export let title = '';
-  export let date = '';
+  export let publishedAt = '';
 </script>
 
 <article class="py-16">
@@ -15,7 +15,7 @@
             {title}
           </h1>
           <FormattedDate
-            {date}
+            date={publishedAt}
             extraClasses="order-first font-mono text-sm leading-7 text-slate-500"
           />
         </div>

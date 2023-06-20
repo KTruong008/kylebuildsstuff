@@ -12,36 +12,36 @@ export const POSTS_LIST = [
     title: 'From Solana to Sui',
     url: '/from-solana-to-sui',
     author: 'Kyle',
-    date: '2023-06-19'
+    publishedAt: '2023-06-19'
   },
   {
     title: 'Ramen Profitability Reflections',
     url: '/ramen-profitability-reflections',
     author: 'Kyle',
-    date: '2023-06-17'
+    publishedAt: '2023-06-17'
   },
   {
     title: 'Why choose Svelte over React',
     url: '/why-choose-svelte-over-react',
     author: 'Kyle',
-    date: '2023-06-07'
+    publishedAt: '2023-06-07'
   },
   {
     title: 'Ramen Profitability in 3.5 Years',
     url: '/ramen-profitability-in-3-5-years',
     author: 'Kyle',
-    date: '2023-06-02'
+    publishedAt: '2023-06-02'
   },
   {
-    title: 'Revenue Strateges for NFT-based Businesses',
-    url: '/revenue-strateges-for-nft-based-businesses',
+    title: 'Revenue Strategies for NFT-based Businesses',
+    url: '/revenue-strategies-for-nft-based-businesses',
     author: 'Kyle',
-    date: '2022-07-21'
+    publishedAt: '2022-07-21'
   },
   {
     title: 'Why Build on the Blockchain?',
     url: '/why-build-on-the-blockchain',
     author: 'Kyle',
-    date: '2022-07-12'
+    publishedAt: '2022-07-12'
   }
 ];

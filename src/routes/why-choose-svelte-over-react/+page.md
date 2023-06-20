@@ -1,7 +1,7 @@
 ---
 title: 'Why choose Svelte over React'
 author: 'Kyle'
-date: '2023-06-07'
+publishedAt: '2023-06-07'
 ---
 
 When comparing 2 tools it’s common to compare in terms of positives, “A” does this better than “B” and “B” does that better than “A”. It’s a good start but most of the time it’s surface level and a matter of preference. It makes no big difference because the end goal can still be achieved either way. I think it’s often better to compare in terms of negatives, because it’s the negatives that truly limit you.

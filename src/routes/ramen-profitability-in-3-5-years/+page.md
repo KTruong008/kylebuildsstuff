@@ -1,7 +1,7 @@
 ---
 title: 'Ramen Profitability in 3.5 Years'
 author: 'Kyle'
-date: '2023-06-02'
+publishedAt: '2023-06-02'
 ---
 
 It’s been a couple months since I hit ramen profitability.

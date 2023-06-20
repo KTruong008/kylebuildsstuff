@@ -14,7 +14,7 @@
         <a href={`${post.url}`}>{post.title}</a>
       </h2>
       <FormattedDate
-        date={post?.date || ''}
+        date={post?.publishedAt || ''}
         extraClasses="order-first font-mono text-sm leading-7 text-slate-500"
       />
       <!-- <p class="mt-1 text-base leading-7 text-slate-700">
