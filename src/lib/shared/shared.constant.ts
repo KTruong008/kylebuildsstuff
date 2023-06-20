@@ -33,6 +33,12 @@ export const POSTS_LIST = [
     date: '2023-06-02'
   },
   {
+    title: 'Revenue Strateges for NFT-based Businesses',
+    url: '/revenue-strateges-for-nft-based-businesses',
+    author: 'Kyle',
+    date: '2022-07-21'
+  },
+  {
     title: 'Why Build on the Blockchain?',
     url: '/why-build-on-the-blockchain',
     author: 'Kyle',

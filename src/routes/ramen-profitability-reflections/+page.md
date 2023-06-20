@@ -68,7 +68,7 @@ I also spent a couple months building a post-purchase upsell app. It made use of
 
 I think the same story can be applied to my ChatGPT wrapper. When my competitor launched his product it went viral. By the time I launched a week later there were already 5 other imitators and we were fighting for scraps.
 
-But what really made this clear to me was my latest Shopify app, a checkout customization app. Again, it made use of new Shopify APIs, but this time I was one of the first apps to launch in the category. The first few months were slow but then Shopify rolled out the features for all Shopify Plus merchants and my growth exploded. Within a month of the public roll out, my number of users quadrupled, and I reached ramen profitability. It continues to grow to this day. I positioned myself a tad bit early but it was still a great timing that aligned with this particular market.
+But what really made this clear to me was my latest Shopify app, a checkout customization app. Again, it made use of new Shopify APIs, but this time I was one of the first apps to launch in the category. It was slow at first but then Shopify rolled out the features for all Shopify Plus merchants and my growth exploded. Within a month of the public roll out, my number of users quadrupled, and I reached ramen profitability. It continues to grow to this day. I positioned myself a tad bit early but it was still a great timing that aligned with this particular market.
 
 ## It’s ok to stop half way
 
