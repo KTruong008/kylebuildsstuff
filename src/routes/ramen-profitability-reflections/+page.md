@@ -56,7 +56,7 @@ So I built “AI Chat Bestie”, tweeted about it on Twitter and launched on Pro
 
 It was refreshing to learn later in his newsletter that this was not his first AI product, and that his first AI products flopped, despite having the same reach. Building a good product that solves a problem actually matters, but marketing is just as important, often times more important.
 
-I applied these learnings to my AI text to speech product, beepbooply. I researched keywords, wrote blog posts, created video content, listed on AI aggregators, and got thousands of users, though only a handful are paying, for a total of $300 MRR as of today.
+I applied these learnings to my AI text to speech product, beepbooply. I researched keywords, wrote blog posts, created video content, listed on AI aggregators, and got thousands of users, though only a handful are paying, for a total of $300 MRR as of today. I should probably do something about that conversation rate.
 
 ## But timing matters most
 
@@ -68,7 +68,7 @@ I also spent a couple months building a post-purchase upsell app. It made use of
 
 I think the same story can be applied to my ChatGPT wrapper. When my competitor launched his product it went viral. By the time I launched a week later there were already 5 other imitators and we were fighting for scraps.
 
-But what really made this clear to me was my latest Shopify app, a checkout customization app. Again, it made use of new Shopify APIs, but this time I was one of the first apps to launch in the category. It was slow at first but then Shopify rolled out the features for all Shopify Plus merchants and my growth exploded. Within a month of the public roll out, my number of users quadrupled, and I reached ramen profitability. It continues to grow to this day. I positioned myself a tad bit early but it was still a great timing that aligned with this particular market.
+But what really made this clear to me was my latest Shopify app, a checkout customization app. Again, it made use of new Shopify APIs, but this time I was one of the first apps to launch in the category. It was slow at first but then Shopify rolled out the features for all Shopify Plus merchants and my growth exploded. Within a month of the public roll out, my number of users quadrupled, and I reached ramen profitability. It continues to grow to this day.
 
 ## It’s ok to stop half way
 
@@ -88,7 +88,7 @@ I think it’s also worth mentioning that it’s extremely hard to compete and w
 
 Ramen profitability is still far away from ideal, and the fact that most my income is dependent upon a single platform is concerning as well. But it is what it is.
 
-Maintaining my existing products takes relatively little effort. I do a bit of customer support and fix bugs here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain, Sui specifically.
+Maintaining my existing products takes relatively little effort. I do a bit of customer support and fix bugs/add features here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain, Sui specifically.
 
 Blockchains are the most exciting technology I know of. The idea of a globally distributed, decentralized, and permissionless database (ledger) that enables ownership of digital assets on a scale never seen before is something I would love to invest a chunk of my life into.
 
