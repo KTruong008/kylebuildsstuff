@@ -7,10 +7,10 @@
   // import About from './about.svelte';
 
   let projects = [
-    ['beepbooply', 'https://beepbooply.com'],
+    ['Pickup & Delivery Buddy', 'https://apps.shopify.com/pickup-and-delivery-buddy'],
     ['AI Chat Bestie', 'https://github.com/KTruong008/aichatbestie'],
     ['Checkout Buddy', 'https://apps.shopify.com/checkout-buddy'],
-    ['Pickup & Delivery Buddy', 'https://apps.shopify.com/pickup-and-delivery-buddy']
+    ['beepbooply', 'https://beepbooply.com']
   ];
 </script>
 
