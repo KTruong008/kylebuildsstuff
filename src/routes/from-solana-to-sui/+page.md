@@ -32,7 +32,7 @@ Whereas in other blockchains, data is organized in accounts and ownership is exp
 
 Maybe I’m missing something, but it just never really clicked for me. I struggled to understand how to build products with accounts and PDAs in Solana, but it’s just so intuitive in Sui.
 
-I still have high hopes for Solana, and I know it’s also working on adding support for Move, but in the meantime I think Sui is the best choice for builders.
+I still have high hopes for Solana, and I know it’s also working on adding support for Move, but it'll likely never surpass or even get close to feature parity with Sui Move, so I think Sui will continue being the best choice for builders.
 
 ## More about Sui
 

@@ -7,9 +7,7 @@
   // import About from './about.svelte';
 
   let projects = [
-    ['Pickup & Delivery Buddy', 'https://apps.shopify.com/pickup-and-delivery-buddy'],
     ['AI Chat Bestie', 'https://github.com/KTruong008/aichatbestie'],
-    ['Checkout Buddy', 'https://apps.shopify.com/checkout-buddy'],
     ['beepbooply', 'https://beepbooply.com']
   ];
 </script>
