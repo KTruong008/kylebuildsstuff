@@ -14,7 +14,7 @@ What I thought I was looking for was passive income. I don’t know how exactly 
 
 The amount of work required to build and position a product well enough that it consistently generates enough profit, month after month, to pay all your bills, and then some, passively, is astronomically high and ever-changing. The cost is not worth it. As a stepping stone, sure thing, but as an end goal? Forget it.
 
-What do you even get out of it? Free time. And what are you going to do with all that free time? Probably something that you actually care about. What I’m saying is making money is a shit end goal. Making something that will still matter to you even when all old and greyed, that is far more worthwhile. Otherwise, it’s basically a glorified job you’re giving yourself.
+What do you even get out of it? Free time. And what are you going to do with all that free time? Probably something that you actually care about. All I’m saying is that just making money is too small of an end goal. Making something that will still matter to you even when all old and greyed, that is far more worthwhile. Otherwise, it’s basically a glorified job you’re giving yourself.
 
 I was already making a living 8 years ago, before I decided to learn to code. If at the end of all that was just me learning to make a living again, with extra steps, I would be pissed. In fact, I kind of am.
 
