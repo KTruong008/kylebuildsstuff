@@ -20,9 +20,7 @@ I was already making a living 8 years ago, before I decided to learn to code. If
 
 But sometimes that’s just how it is. I convinced myself that building a profitable product I didn’t care about, alone, was necessary, that I wasn’t good enough until I could do at least that.
 
-And now here I am with a few SaaS products that, combined, make more money than my last job paid me. I was wrong in that it was never a question of possibility or whether I was good enough, it was just me being too afraid to pursue what I truly care about, to even explore what that could be. At least if I failed in this I could have said it’s because I didn’t really care. But I didn’t fail, I, for the most part, accomplished what I set out to do, and now all that’s left is this realization that I can’t really ignore anymore.
-
-I’m getting a bit too old to be taking baby steps when I could be running.
+And now here I am with a few SaaS products that, combined, make more money than my last job paid me. I was wrong, it was never a question of possibility or whether I was good enough, it was just me being too afraid to pursue what I truly care about, to even explore what that could be. At least if I failed in this I could have said it’s because I didn’t really care. But I didn’t fail. I, for the most part, accomplished what I set out to do, and now all that’s left is a feeling of emptiness.
 
 It’s all good though. Awareness precedes control, or so I’ve heard. I’ll continue working on my existing products until they are as good as I can feasibly make them, because I should at least follow through until one end or the other. It’s a good feeling knowing that what I build helps other people, that my work is appreciated, and I know this not just because they tell me but also because they pay me. It’s actually incredible.
 
