@@ -8,7 +8,7 @@ The hardest part of solopreneurship, or building a one-person business, is reali
 
 I wanted to learn to code, and so I made that happen. Worked during the day, studied on evenings and weekends. I wanted to get a job as a Software Developer, and I made that happen too. I worked for free to get experience, continued honing my skills, and applied to all the jobs I could.
 
-But when it came to this, whatever this is called, I struggled for years, and I continue to struggle. And at this point I don’t think it’s from a lack of capability. I’ve reached 10k MRR for what it’s worth, and it feels like I’ve just opened another door to an empty room. This isn’t what I was looking for.
+But when it came to this, whatever this is called, I struggled for years, and I continue to struggle. There’s so much more internal friction, and at this point I don’t think it’s from a lack of capability. I’ve reached 10k MRR for what it’s worth, and it feels like I’ve just opened another door to an empty room. This isn’t what I was looking for.
 
 What I thought I was looking for was passive income. I don’t know how exactly to put this, but as a message to my past self: it’s not worth it.
 
