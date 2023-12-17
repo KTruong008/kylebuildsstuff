@@ -8,12 +8,12 @@ export const TWITTER_URL = 'https://twitter.com/kylebuildsstuff';
  * and parseable source of truth for blog posts.
  */
 export const POSTS_LIST = [
-  {
-    title: '10K MRR',
-    url: '/10k-mrr',
-    author: 'Kyle',
-    publishedAt: '2023-11-24'
-  },
+  // {
+  //   title: '10K MRR',
+  //   url: '/10k-mrr',
+  //   author: 'Kyle',
+  //   publishedAt: '2023-11-24'
+  // },
   {
     title: 'From Solana to Sui',
     url: '/from-solana-to-sui',
