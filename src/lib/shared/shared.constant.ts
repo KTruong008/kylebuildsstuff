@@ -32,12 +32,12 @@ export const POSTS_LIST = [
     author: 'Kyle',
     publishedAt: '2023-06-07'
   },
-  {
-    title: 'Ramen Profitability in 3.5 Years',
-    url: '/ramen-profitability-in-3-5-years',
-    author: 'Kyle',
-    publishedAt: '2023-06-02'
-  },
+  // {
+  //   title: 'Ramen Profitability in 3.5 Years',
+  //   url: '/ramen-profitability-in-3-5-years',
+  //   author: 'Kyle',
+  //   publishedAt: '2023-06-02'
+  // },
   {
     title: 'Revenue Strategies for NFT-based Businesses',
     url: '/revenue-strategies-for-nft-based-businesses',
