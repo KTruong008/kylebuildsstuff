@@ -59,7 +59,7 @@ Move is not the same as Sui Move.
 
 Other blockchains may use Move, Solana may add support for Move, but only Sui Move has full support for objects and all the benefits that come with it. The Sui team goes into more detail here:
 
-https://blog.sui.io/why-we-created-sui-move/
+https://docs.sui.io/concepts/sui-move-concepts
 
 But why can’t another blockchain just copy Sui Move then?
 
