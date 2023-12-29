@@ -8,6 +8,12 @@ export const TWITTER_URL = 'https://twitter.com/kylebuildsstuff';
  * and parseable source of truth for blog posts.
  */
 export const POSTS_LIST = [
+  {
+    title: 'Why Sui & Solana Have Staying Power',
+    url: '/why-sui-and-solana-have-staying-power',
+    author: 'Kyle',
+    publishedAt: '2023-12-28'
+  },
   // {
   //   title: '10K MRR',
   //   url: '/10k-mrr',
