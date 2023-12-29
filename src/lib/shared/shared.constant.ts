@@ -20,12 +20,13 @@ export const POSTS_LIST = [
   //   author: 'Kyle',
   //   publishedAt: '2023-11-24'
   // },
-  {
-    title: 'From Solana to Sui',
-    url: '/from-solana-to-sui',
-    author: 'Kyle',
-    publishedAt: '2023-06-19'
-  },
+  // Redundant
+  // {
+  //   title: 'From Solana to Sui',
+  //   url: '/from-solana-to-sui',
+  //   author: 'Kyle',
+  //   publishedAt: '2023-06-19'
+  // },
   {
     title: 'Ramen Profitability Reflections',
     url: '/ramen-profitability-reflections',
