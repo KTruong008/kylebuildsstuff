@@ -6,7 +6,7 @@ publishedAt: '2023-12-28'
 
 Yet again, I feel I am faced with the decision of A or B.
 
-To choose one is to exclude the other, I can only be a maxi of one chain. Ok, not really, but let’s think this through.
+To choose one is to exclude the other, I can only be a maxi of one chain. Ok not really, but let’s think this through.
 
 ## Solana, right now
 
@@ -18,15 +18,15 @@ On the other hand, we have Sui. Not even a year old but already making a big imp
 
 A lot of it, I think, is because of it’s language, Sui Move, and the object-centric model that it offers. It’s hard to explain how big of a difference this makes, but it’s like building a modern frontend UI with jquery versus a component-based framework like Svelte, or React. It’s definitely possible to do it either way, but to do it in jquery is something I’d imagine to be the developer equivalent of chewing glass.
 
-Sui Move provides 1st class support for digital assets in a similar way React and Svelte provide support for components.
+Sui Move provides 1st class support for digital assets in a similar way that React and Svelte provide support for components.
 
-In Sui, objects are the building blocks and they can represent digital assets like NFTs, or even be nested within each other. In other account-based blockchains there is no primary concept of an object. It’s basically giant hash maps that link addresses to values to represent assets. Assets are deeply tied with their smart contracts, and to even transfer it one would need to interact with the contract.
+In Sui, objects are the building blocks and they can represent digital assets like NFTs, they can even be nested within each other. In other account-based blockchains like Solana there are no objects or digital assets, at least not as primitives. Everything is an account, all abstractions are represented by accounts, and relations between them are mappings between accounts and addresses. While I respect the simplicity of this approach, in practice it makes building stuff so much more difficult when compared to Sui's object-oriented approach.
 
-But just as important as having an appropriate mental model when dealing with digital assets, is being able to write safe code. Sui’s ownership model, combined with its bytecode verifier and object capabilities allow for account checks to be automated, making it much simpler to write safe code.
+And just as important as having appropriate primitives when dealing with digital assets, is being able to write safe code. Sui’s ownership model, combined with its bytecode verifier and object capabilities allow for account checks to be automated, making it much simpler to write safe code.
 
-I think this is perhaps one of the biggest hurdles for onboarding devs onto web3. It’s not uncommon when writing smart contracts on other blockchains for the security, or account checking portion of the code to be half the code written. And to get it wrong could be disastrous and lead to the loss of millions of dollars.
+I think this is perhaps one of the biggest hurdles for onboarding devs onto web3. It’s not uncommon when writing smart contracts on other blockchains for the security, or account checking portion of the code, to be half the code written. And to get it wrong could be disastrous, potentially leading to the loss of millions of dollars.
 
-In Sui, as a developer, much more of your focus can go into building digital assets rather than checking accounts.
+In Sui, as a developer, the cognitive load of writing smart contracts is significantly reduced, allowing you to build and iterate faster.
 
 One example of this can be found in writing an implementation for a mint authority lock in both Solana and Sui, here:
 
