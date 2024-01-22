@@ -45,12 +45,12 @@ export const POSTS_LIST = [
   //   author: 'Kyle',
   //   publishedAt: '2023-06-02'
   // },
-  {
-    title: 'Revenue Strategies for NFT-based Businesses',
-    url: '/revenue-strategies-for-nft-based-businesses',
-    author: 'Kyle',
-    publishedAt: '2022-07-21'
-  },
+  // {
+  //   title: 'Revenue Strategies for NFT-based Businesses',
+  //   url: '/revenue-strategies-for-nft-based-businesses',
+  //   author: 'Kyle',
+  //   publishedAt: '2022-07-21'
+  // },
   {
     title: 'Why Build on the Blockchain?',
     url: '/why-build-on-the-blockchain',
