@@ -14,17 +14,17 @@ I’m older, fatter, and poorer. Was it worth it? I guess so. It wasn’t easy f
 
 ## Building cool stuff is not the same as building a business
 
-My initial plan was to just copy existing apps, but make them better and cheaper. I browsed through the Shopify App Store for apps with low-to-mid ratings and I’d note the biggest complaints in their reviews, and then I’d build what I thought to be a better app.
+My initial plan was to just copy existing apps but make them better and cheaper. I browsed through the Shopify App Store for apps with low-to-mid ratings and I’d note the biggest complaints in their reviews, and then I’d build what I thought to be a better app.
 
-The bulk of my attention went into learning and trying out new tech. I fully expected failure for my first few apps and that’s what I got. In return, I got to experiment with and incorporate new tools into my stack that interested in me, tools that I had long yearned for and deemed optimal for shipping in the long run, tools like Kubernetes, GraphQL, Svelte, and design systems (Polaris).
+The bulk of my attention went into learning and trying out new tech. I fully expected failure for my first few apps and that’s what I got. In return I got to experiment with and incorporate new tools into my stack that interested in me, tools that I had long yearned for and deemed optimal for shipping in the long run, tools like Kubernetes, GraphQL, Svelte, and design systems (Polaris).
 
 Unfortunately, the enthusiasm for new tech lasts only so long. I built 2 Shopify apps (related to product-page customizations) with this mindset, and after being live for months I only got a couple paying customers. I think one of them even forgot they had installed and were paying for my app, because I didn’t see them use it at all. It didn’t even cover the cost of the databases, so I shut both apps down.
 
 It made me question whether I actually wanted to build a business or if I just wanted to play with new tech. I wanted both.
 
-The hardest part for me was how little guidance there was, I took for granted the structure employment provided. Every approved pull request, every meeting, every paycheck… these were all signs that I was doing the right thing. And if I wasn’t doing the right thing I could always just observe what someone else was doing, or ask for help.
+The hardest part for me was how little guidance there was, I took for granted the structure employment provided. Every approved pull request, every meeting, every paycheck – these were all signs that I was doing the right thing. And if I wasn’t doing the right thing I could always just observe what someone else was doing, or ask for help.
 
-But none of this is available when you go solo. The only validation you’re doing something right in business is when someone pays you, and no one was paying me. I could write the cleanest code, use the latest tech, design the best UX, build the coolest features, but it meant nothing in terms of business.
+But none of this is available when you go solo. The only validation you’re doing something right in business is when someone pays you. You could write the cleanest code, use the latest tech, design the best UX, build the coolest features, but it means nothing in business.
 
 ## Product is often not the limiting factor (marketing matters)
 
@@ -91,9 +91,5 @@ I think it’s also worth mentioning that it’s extremely hard to compete and w
 Ramen profitability is still far away from ideal, and the fact that most my income is dependent upon a single platform is concerning as well. But it is what it is.
 
 Maintaining my existing products takes relatively little effort. I do a bit of customer support and fix bugs/add features here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain, Sui specifically.
-
-Blockchains are the most exciting technology I know of. The idea of a globally distributed, decentralized, and permissionless database (ledger) that enables ownership of digital assets on a scale never seen before is something I would love to invest a chunk of my life into.
-
-Problem is that it’s super early right now, with lots of infrastructure that needs to be built. I think we may still be a few years out before we start seeing some mainstream adoption. Still, nothing software-related excites me more than blockchain technology. AI is neat but looks fundamentally limited by large expensive models that only big tech has keys to. That’s also part of why blockchain tech appeals to me. It is early, but being early to the party can be fun too.
 
 Every day is full of possibilities, nothing is set in stone, and I intend to keep it that way as much as I can.
