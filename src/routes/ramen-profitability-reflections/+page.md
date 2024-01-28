@@ -90,6 +90,6 @@ I think it’s also worth mentioning that it’s extremely hard to compete and w
 
 Ramen profitability is still far away from ideal, and the fact that most my income is dependent upon a single platform is concerning as well. But it is what it is.
 
-Maintaining my existing products takes relatively little effort. I do a bit of customer support and fix bugs/add features here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain, Sui specifically.
+Maintaining my existing products takes relatively little effort. I do a bit of customer support and fix bugs/add features here and there, but I’m mostly waiting for Shopify to release their newest batch of features and integrations, which should be coming soon. My primary focus in the meantime is writing, reflection, and learning how to build on the blockchain.
 
 Every day is full of possibilities, nothing is set in stone, and I intend to keep it that way as much as I can.
